@@ -1,0 +1,17 @@
+body{
+
+	//background-image: url("images/green.jpg");
+	background-size:cover,contain;
+}
+.jumbotron{
+
+	background: white url("images/yellow.png");
+}
+.jumbotron-special{
+
+	background: white url("images/green.jpg");
+}
+.jumbotron-special h2{
+
+	color:white;
+}
